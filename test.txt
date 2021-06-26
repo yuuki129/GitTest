@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 master in line 1
 
 
 
 sb in line 4/5
+=======
+devvvvvvvvv
+
+dev33333333333
+>>>>>>> dev
